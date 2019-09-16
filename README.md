@@ -3,6 +3,7 @@
 ## Introduction
 * Sample data & policy sources:
   * AIA, AXA, BOC, Manulife, Prudential
+  * Found under `Sample Policy` folder
 * Cost indices used:
   * NPCI (Net Payment Cost Index): indicates the cost of a policy if the insured is diagnosed with at least one conditions covered in the critical illness coverage or dies in a specified year.
   * SCI (Surrender Cost Index): indicates the cost of a policy if the insurant surrenders the policy in a specific year.
