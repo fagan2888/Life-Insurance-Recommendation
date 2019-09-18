@@ -1,4 +1,5 @@
-# Life-Insurance-Recommendation-Project
+# Life Insurance Recommendation
+FINA2342, Insurance Theory and Practice Project
 
 ## Introduction
 * Sample data & policy sources:
