@@ -17,8 +17,8 @@ FINA2342, Insurance Theory and Practice Project
 
 ## Data Processing and Analysis
 * [**Cost_Index_Sensitivity_Analysis.pdf**](https://github.com/lingyixu/Life-Insurance-Recommendation/blob/master/Cost_Index_Sensitivity_Analysis.pdf) contains 9 pages in total.
-  * First 5 pages: raw data of five policies and cost indices calculation.
-  * Last 4 pages: sensitivity analysis of indices w.r.t. dividend compound rate, annual dividends, maturity dividends, annual premium respectively.
+  * First 5 pages: raw data of five policies and **cost indices** calculation.
+  * Last 4 pages: **sensitivity analysis** of indices w.r.t. dividend compound rate, annual dividends, maturity dividends, annual premium respectively.
   * Same content as [**Cost_Index_Sensitivity_Analysis.xlsx**](https://github.com/lingyixu/Life-Insurance-Recommendation/blob/master/Cost_Index_Sensitivity_Analysis.xlsx). The pdf file is more readable, whereas the excel file shows calculation details.
   * Key skills used:
     * Built-in functions: `SUMPRODUCT()`, `VLOOKUP()`, `COUNTIF()`
