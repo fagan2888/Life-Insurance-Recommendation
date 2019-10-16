@@ -13,7 +13,6 @@ FINA2342, Insurance Theory and Practice Project
   * Annual dividends
   * Maturity dividends
   * Annual premium
-  * Interest rate
 
 ## Data Processing and Analysis
 * [**Cost_Index_Sensitivity_Analysis.pdf**](https://github.com/lingyixu/Life-Insurance-Recommendation/blob/master/Cost_Index_Sensitivity_Analysis.pdf) contains 9 pages in total.
